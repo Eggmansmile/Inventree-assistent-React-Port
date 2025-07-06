@@ -1,5 +1,3 @@
-import React from 'react';
-
 function ButtonPing(){
 
     const handlePing = () => {

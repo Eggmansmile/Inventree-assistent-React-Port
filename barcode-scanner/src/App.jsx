@@ -2,6 +2,7 @@ import Logo from './logo'
 import './App.css'
 import Header from './header'
 import Scanner from './Scanner'
+import ButtonPing from './ButtonPing'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Logo />
       <Header />
       <Scanner />
+      <ButtonPing/>
     </div>
   )
 }
